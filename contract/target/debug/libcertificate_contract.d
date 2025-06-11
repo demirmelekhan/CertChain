@@ -1,0 +1,1 @@
+/mnt/c/Users/demir/github/Egitim-WEB3/Rust-Stellar/rwa-vibe-certchain/contract/target/debug/libcertificate_contract.so: /mnt/c/Users/demir/github/Egitim-WEB3/Rust-Stellar/rwa-vibe-certchain/contract/src/lib.rs

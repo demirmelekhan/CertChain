@@ -1,0 +1,1 @@
+/mnt/c/Users/demir/github/Egitim-WEB3/Rust-Stellar/rwa-vibe-certchain/contract/target/wasm32v1-none/release/certificate_contract.wasm: /mnt/c/Users/demir/github/Egitim-WEB3/Rust-Stellar/rwa-vibe-certchain/contract/src/lib.rs
